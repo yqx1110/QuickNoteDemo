@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quick Note (Demo)</string>
+    <string name="action_settings">设置</string>
+    <string name="action_search">搜索</string>
+    <string name="action_save">保存</string>
+    <string name="action_discard">撤销编辑</string>
+    <string name="action_delete">删除</string>
+    <string name="action_edit">编辑</string>
+    <string name="toast_deleted">已删除</string>
+    <string name="toast_saved">已保存</string>
+    <string name="toast_discarded">已撤销更改</string>
+    <string name="new_note">新建记事</string>
+    <string name="input_title">请输入标题</string>
+    <string name="input_content">正文</string>
+    <string name="view">查看</string>
+</resources>
